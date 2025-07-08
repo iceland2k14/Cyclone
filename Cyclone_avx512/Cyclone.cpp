@@ -255,7 +255,7 @@ static void computeHash160BatchBinSingle(int numKeys,
                       inPtr[12], inPtr[13], inPtr[14], inPtr[15],
                       outPtr[0], outPtr[1], outPtr[2], outPtr[3],
                       outPtr[4], outPtr[5], outPtr[6], outPtr[7],
-                      outPtr[8], outPtr[8], outPtr[10], outPtr[11],
+                      outPtr[8], outPtr[9], outPtr[10], outPtr[11],
                       outPtr[12], outPtr[13], outPtr[14], outPtr[15]);
 
         for (size_t i = 0; i < batchCount; i++) {
