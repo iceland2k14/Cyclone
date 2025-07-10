@@ -30,7 +30,7 @@ I extend our gratitude to Jean-Luc Pons for his foundational contributions to th
 | Solver             | Speed (Mkeys/s) | Notes                                                                                      |
 |--------------------|-----------------|--------------------------------------------------------------------------------------------|
 | **Vanity Search**  | 35.91           | No option to select a range of private keys for search.                                    |
-| **Keyhunt**        | 43              | Incorrectly computes hashes and addresses by omitting the Y coordinates for compress mode  |
+| **Keyhunt**        | 43              |  Computes hashes and addresses by omitting the Y coordinates for compress mode  |
 | **Cyclone AVX2**   | 51.21           | Full and correct computation of compressed public keys, computing 8 hash160 per batch      |
 
 - **Processor**: Ryzen 9 7945HX (16 cores, 32 threads)
