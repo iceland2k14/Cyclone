@@ -143,6 +143,18 @@ Thread Key 12: 0000000000000000000000000000000000000000000000007FFFFC006FB43F9C
 Thread Key 13: 0000000000000000000000000000000000000000000000007FFFFD006EFDE8AA
 Thread Key 14: 0000000000000000000000000000000000000000000000007FFFFE006EA5CD1E
 Thread Key 15: 0000000000000000000000000000000000000000000000007FFFFF006EBC9242
+
+
+(base) C:\Continuum\Anaconda3\>python go.py
+
+[+] Starting Program.... Please Wait !
+[+] Search Mode: Sequential Random in each Loop. seq = 67,108,864
+[+] Total Unsolved: 78 Puzzles in the bit range [71-160]
+[+] Target Selected : Puzzle #81  with Address: 15qsCm78whspNQFydGJQk5rexzxTQopnHZ
+[I: 112] [Puzz: 81] [T:7,516,192,768] [Time(h:m:s): 00:01:39.19]
+[From: 1523AEE3C561B7F999923] [80.40186 bit]
+[To  : 1523AEE3C561B83999923] [80.40186 bit]
+SIGINT or CTRL-C detected. Exiting gracefully. BYE
 ```
 
 ## 🛠️ Getting Started
